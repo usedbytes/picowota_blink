@@ -1,3 +1,7 @@
 [submodule "picowota"]
 	path = picowota
 	url = ../picowota
+[submodule "https://github.com/usedbytes/picowota"]
+	url = picowota
+[submodule "git@github.com:usedbytes/picowota.git"]
+	url = picowota
