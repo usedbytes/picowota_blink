@@ -15,7 +15,7 @@ git submodule update --init picowota
 
 mkdir build
 cd build
-cmake -DPICO_BOARD=picow_w ..
+cmake -DPICO_BOARD=pico_w ..
 make
 ```
 
